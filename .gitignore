@@ -1,0 +1,4 @@
+# Ignore OpenRouter API key file
+.openrouter_api_key
+.env
+
